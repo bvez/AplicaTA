@@ -1,0 +1,15 @@
+todos los golden no tienen last_judgement
+el _golden coincide con el _unit_state a excepcion de uno solo
+que es sentiment:confidence?
+
+ver si las mayusculas son representativas
+
+1: negativos
+3: neutrales
+5: positivos
+
+
+se elimina:
+_unit_state
+date
+query
